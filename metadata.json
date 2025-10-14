@@ -1,0 +1,5 @@
+{
+  "name": "Cyber Security Toolkit",
+  "description": "An interactive, AI-powered toolkit showcasing 240 essential cybersecurity tools across 12 categories. Explore tools, view descriptions, and generate live command examples and exploitation use cases with AI.",
+  "requestFramePermissions": []
+}
